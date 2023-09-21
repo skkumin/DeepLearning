@@ -18,7 +18,7 @@ RNN이론 & Pytorch 실습 코드
 [💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/RNN/RNN%EC%A3%BC%EC%8B%9D(many%20to%20one).ipynb)<br/>
 
 
-[🔽참고한 자료들]
+🔽참고한 자료들
 
 👉 RNN이론 설명 -> [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)<br/>
 👉 RNN코드 -> [Kaist 딥러닝 홀로서기 RNN(코드 실습)](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)<br/> 
