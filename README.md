@@ -10,7 +10,7 @@
 #### RNN  
 
 - RNN개념설명 & Pytorch 실습 코드
-[📄개념설명]([https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-A.pdf](https://velog.io/@skkumin/RNN-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%A1%A0Pytorch)) [💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/RNN/RNN%EC%A3%BC%EC%8B%9D(many%20to%20one).ipynb)
+[📄개념설명](https://velog.io/@skkumin/RNN-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%A1%A0Pytorch) [💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/RNN/RNN%EC%A3%BC%EC%8B%9D(many%20to%20one).ipynb)
 
 :bar_chart: Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
 
