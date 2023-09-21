@@ -18,9 +18,10 @@
 
 <참고한 자료들>
 
-👉 RNN이론 설명 -> [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi) 
-👉 RNN코드 -> [Kaist 딥러닝 홀로서기 RNN(코드 실습](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)
-👉 참고한 책 -> 딥러닝 파이토치 교과서
+👉 RNN이론 설명 -> [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)  
+👉 RNN코드 -> [Kaist 딥러닝 홀로서기 RNN(코드 실습](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)  
+👉 참고한 책 -> 딥러닝 파이토치 교과서  
+
 
 # 
 
