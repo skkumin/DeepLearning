@@ -31,8 +31,8 @@ LSTM이론 & Pytorch 실습코드/[📄이론](https://velog.io/@skkumin/LSTM%EC
 
 🔽참고한 자료들
 
-LSTM이론 강의 👉 [Kaist 딥러닝 홀로서기 LSTM(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)<br/>
-LSTM코드 👉 [Kaist 딥러닝 홀로서기 LSTM(코드 실습)](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)<br/> 
+LSTM이론 강의 👉 [Kaist 딥러닝 홀로서기 LSTM(이론편)](https://youtu.be/cs3tSnAsyRs?si=qmHBdj6ugHmDAL7n)<br/>
+LSTM코드 👉 [Kaist 딥러닝 홀로서기 LSTM(코드 실습)](https://youtu.be/javWSq-5xzw?si=VSbY1-GDh3ocFb2k)<br/> 
 LSTM을 게이트별로 잘 설명되어있는 블로그 👉 [BLOG](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br/>
 참고한 책 👉 딥러닝 파이토치 교과서<br/>
 
