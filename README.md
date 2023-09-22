@@ -14,9 +14,10 @@
 #### RNN  
 
 RNN이론 & Pytorch 실습 코드/[📄이론](https://velog.io/@skkumin/RNN-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%A1%A0Pytorch)[💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/RNN/RNN%EC%A3%BC%EC%8B%9D(many%20to%20one).ipynb)<br/>
-<br><br/>
+
 <details>
 <summary>📁참고한 자료들</summary>
+  <br><br/>
 <div markdown="1">
 
 RNN이론 설명 👉 [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)<br/>
@@ -32,7 +33,7 @@ RNN코드 👉 [Kaist 딥러닝 홀로서기 RNN(코드 실습)](https://youtu.b
 #### LSTM
 
 LSTM이론 & Pytorch 실습코드/[📄이론](https://velog.io/@skkumin/LSTM%EC%9D%B4%EB%A1%A0Pytorch)[💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/LSTM/%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1_LSTM.ipynb)<br/>
-<br><br/>
+
 <details>
 <summary>📁참고한 자료들</summary>
 <div markdown="1">
@@ -50,7 +51,7 @@ LSTM을 게이트별로 잘 설명되어있는 블로그 👉 [BLOG](https://col
 #### seq2seq
 
 실습 데이터[📚AI허브 한-영 번역데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=126)<br/>
-<br><br/>
+
 <details>
 <summary>📁참고한 자료들</summary>
 <div markdown="1">
