@@ -47,3 +47,13 @@ LSTM을 게이트별로 잘 설명되어있는 블로그 👉 [BLOG](https://col
 
 이론 강의 👉 [나동빈 유튜브](https://youtu.be/cs3tSnAsyRs?si=qmHBdj6ugHmDAL7n)<br/>
 코드 👉 [이수안 컴퓨터 연구소](https://www.youtube.com/watch?v=1eLdaJ-Y7zM&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=24)/[나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)<br/>
+
+
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
