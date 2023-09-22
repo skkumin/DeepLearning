@@ -16,11 +16,16 @@
 RNN이론 & Pytorch 실습 코드/[📄이론](https://velog.io/@skkumin/RNN-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%A1%A0Pytorch)[💻코드](https://github.com/skkumin/DeepLearning-Study/blob/main/RNN/RNN%EC%A3%BC%EC%8B%9D(many%20to%20one).ipynb)<br/>
 
 
-🔽참고한 자료들
+<details>
+<summary>📁참고한 자료들</summary>
+<div markdown="1">
 
 RNN이론 설명 👉 [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)<br/>
 RNN코드 👉 [Kaist 딥러닝 홀로서기 RNN(코드 실습)](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)<br/> 
 참고한 책 👉 딥러닝 파이토치 교과서<br/>  
+
+</div>
+</details> 
 
 
 # 
@@ -53,7 +58,9 @@ LSTM을 게이트별로 잘 설명되어있는 블로그 👉 [BLOG](https://col
 <summary>📁참고한 자료들</summary>
 <div markdown="1">
 
-안녕
+RNN이론 설명 👉 [Kaist 딥러닝 홀로서기 RNN(이론편)](https://youtu.be/bPRfnlG6dtU?si=OtprAftMuki6V_Oi)<br/>
+RNN코드 👉 [Kaist 딥러닝 홀로서기 RNN(코드 실습)](https://youtu.be/tlyzfIYvMWE?si=fDUGbdoX5uhxfJrM)<br/> 
+참고한 책 👉 딥러닝 파이토치 교과서<br/>  
 
 </div>
 </details>
