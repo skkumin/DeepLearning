@@ -50,7 +50,7 @@ LSTM을 게이트별로 잘 설명되어있는 블로그 👉 [BLOG](https://col
 
 
 <details>
-<summary>토글 접기/펼치기</summary>
+<summary>🔽참고한 자료들</summary>
 <div markdown="1">
 
 안녕
